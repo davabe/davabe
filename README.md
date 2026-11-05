@@ -1,4 +1,4 @@
-# Hey, I'm Dave Nebot 👋
+# Hey, I'm David Abellan 👋
 
 ## Full Stack Lead Developer | Web Architect | Product Builder | Unity & Game Design Learner
 
@@ -57,7 +57,7 @@ I’m open to collaborating on:
 
 ## 🌍 Find Me
 
-Website: [www.davenebot.com](https://www.davenebot.com)
+Website: [www.davidabellan.com](https://www.davidabellan.com)
 
 ---
 
